@@ -15,6 +15,7 @@ namespace HealthAndFitness
         public static void Main(string[] args)
         {
             BuildWebHost(args).Run();
+            //test
         }
 
         public static IWebHost BuildWebHost(string[] args) =>
